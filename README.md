@@ -63,8 +63,8 @@ Technologies used in the project:
 
 *   HTML
 *   CSS
-*   jJS
-*   pPHP
+*   JS
+*   PHP
 *   MYSQL
 
 <br>
