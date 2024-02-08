@@ -28,7 +28,7 @@
 
   
   
-<h2>🧐 Features</h2>
+<h2>🧐 User-Side Features</h2>
 
 Here're some of the project's best features:
 
@@ -40,7 +40,7 @@ Here're some of the project's best features:
 
   
 
-<h2>🧐 Features</h2>
+<h2>🧐 Admin-Side Features</h2>
 
 Here're some of the project's best features:
 
