@@ -41,7 +41,14 @@ Here're some of the project's best features:
   
 
 <h2>🧐 Admin-Side Features</h2>
-
+<p align="center"><img src="img/Screenshot 2024-02-08 210329.png" alt="ss"></p>
+<br>
+<p align="center"><img src="img/Screenshot 2024-02-08 210353.png" alt="ss"></p>
+<br>
+<p align="center"><img src="img/Screenshot 2024-02-08 210412.png" alt="ss"></p>
+<br>
+<p align="center"><img src="img/Screenshot 2024-02-08 210425.png" alt="ss"></p>
+<br>
 Here're some of the project's best features:
 
 *   Login page for admins 
