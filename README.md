@@ -1,6 +1,6 @@
 <h1 align="center" id="title">EMMORZEAL</h1>
 
-<p align="center"><img src="www.emmorzeal.com" alt="project-image"></p>
+<p align="center"><img src="img/titleLogo.png" alt="project-image"></p>
 
 <p id="description">This project is basically made for my college name Bunts Sangha’s S.M.Shetty College of Science Commerce &amp; Management Studies Powai. Permanently Affiliated to University of Mumbai. In which they have a biggest event named Emmorzeal which is an intra college event in mumbai.</p>
 
