@@ -11,21 +11,21 @@
 <h2>Project Screenshots:</h2>
 
 <p align="center"><img src="img/Screenshot 2024-02-08 114950.png" alt="ss"></p>
-
+<br>
 <p align="center"><img src="img/Screenshot 2024-02-08 205248.png" alt="ss"></p>
-
+<br>
 <p align="center"><img src="img/Screenshot 2024-02-08 205306.png" alt="ss"></p>
-
+<br>
 <p align="center"><img src="img/Screenshot 2024-02-08 205324.png" alt="ss"></p>
-
+<br>
 <p align="center"><img src="img/Screenshot 2024-02-08 205351.png" alt="ss"></p>
-
+<br>
 <p align="center"><img src="img/Screenshot 2024-02-08 205402.png" alt="ss"></p>
-
+<br>
 <p align="center"><img src="img/Screenshot 2024-02-08 205415.png" alt="ss"></p>
-
+<br>
 <p align="center"><img src="img/Screenshot 2024-02-08 205423.png" alt="ss"></p>
-
+<br>
   
   
 <h2>🧐 User-Side Features</h2>
