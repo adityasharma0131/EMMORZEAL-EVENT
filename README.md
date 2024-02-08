@@ -72,6 +72,8 @@ Technologies used in the project:
 <p>Feel free to contact me through my LinkedIn or my Mail</p>
 <p align="left">
 <a href="https://linkedin.com/in/aditya-sharma-9b2b27226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-sharma-9b2b27226" height="30" width="40" /></a>
+
+  <a href="https://linkedin.com/in/aditya-sharma-9b2b27226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail-in-alt.svg" alt="aditya-sharma-9b2b27226" height="30" width="40" /></a>
 </p>
 <br>
 <h2>💖Exciting Feature</h2>
