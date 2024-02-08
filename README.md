@@ -10,9 +10,21 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="img1" alt="project-screenshot" width="200" height="200/">
+<p align="center"><img src="img/Screenshot 2024-02-08 114950.png" alt="ss"></p>
 
-<img src="" alt="project-screenshot" width="400" height="400/">
+<p align="center"><img src="img/Screenshot 2024-02-08 205248.png" alt="ss"></p>
+
+<p align="center"><img src="img/Screenshot 2024-02-08 205306.png" alt="ss"></p>
+
+<p align="center"><img src="img/Screenshot 2024-02-08 205324.png" alt="ss"></p>
+
+<p align="center"><img src="img/Screenshot 2024-02-08 205351.png" alt="ss"></p>
+
+<p align="center"><img src="img/Screenshot 2024-02-08 205402.png" alt="ss"></p>
+
+<p align="center"><img src="img/Screenshot 2024-02-08 205415.png" alt="ss"></p>
+
+<p align="center"><img src="img/Screenshot 2024-02-08 205423.png" alt="ss"></p>
 
   
   
