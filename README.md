@@ -1,4 +1,3 @@
-﻿# Emmorzeal-Event
 <h1 align="center" id="title">EMMORZEAL</h1>
 
 <p align="center"><img src="www.emmorzeal.com" alt="project-image"></p>
@@ -28,6 +27,16 @@ Here're some of the project's best features:
 *   A scoreboard section for being updated with their college score
 
   
+
+<h2>🧐 Features</h2>
+
+Here're some of the project's best features:
+
+*   Login page for admins 
+*   Admin Dashboard that can give info like Total Registration, Total Users, Total Events, Total Colleges
+*   Events CRUD Operation 
+*   A dedicated page for CRUD operation over the registrations of students 
+*   A dedicated page for CRUD operation over the Admin Users
   
 <h2>💻 Built with</h2>
 
